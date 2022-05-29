@@ -3,7 +3,7 @@
 - Fork the project
 - Clone your fork locally
 ```bash
-git clone https://github.com/<your-username>/blog-post-workflow
+git clone https://github.com/<supercomet329>/blog-post-workflow
 cd blog-post-workflow
 ```
 - Create a new branch
